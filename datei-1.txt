@@ -1,10 +1,10 @@
 Hallo
 
-<<<<<<< HEAD
+
 In master via GitHub eingefügt
 
 In master via GitHub eingefügt 2
-=======
+
 
 Änderung aus Branch 1...
->>>>>>> branch1
+
