@@ -3,4 +3,6 @@ Datei 2
 
 Änderung in branch1
 
-Noch eine Änderung in branch1
+Noch eine Änderung in branch1...
+
+... und noch mehr...
